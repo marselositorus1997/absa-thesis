@@ -9,6 +9,6 @@ __pycache__
 *.idea/
 Lib
 Scripts
-Include
 share
 *.cfg
+Include\site\python3.8\greenlet

@@ -11,4 +11,4 @@ Lib
 Scripts
 share
 *.cfg
-Include\site\python3.8\greenlet
+/Include

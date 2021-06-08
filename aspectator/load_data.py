@@ -14,7 +14,7 @@ class DataLoader(object):
         df = pd.read_csv(path)
         #find random sample
         np.random.seed(2024)
-        idx = np.random.randint(low=0, high=len(df), size = 2)
+        idx = np.random.randint(low=0, high=len(df), size = 5)
         sample_df = df.iloc[idx]
         return sample_df
 
@@ -23,6 +23,6 @@ class DataLoader(object):
         df = pd.read_csv(path)
         #find random sample
         np.random.seed(2024)
-        idx = np.random.randint(low=0, high=len(df), size = 2)
+        idx = np.random.randint(low=0, high=len(df), size = 5)
         sample_df = df.iloc[idx]
         return sample_df

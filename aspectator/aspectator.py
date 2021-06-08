@@ -25,9 +25,7 @@ class The_Aspectator(object):
     def __init__(self):
         pass
 
-    def find_opinion_pairs(self, doc):
-
-        
+    def find_opinion_pairs(self, doc):     
         cleaned_rule3_pairs = []
         rule3_pairs = []
 
@@ -42,14 +40,11 @@ class The_Aspectator(object):
                 add_neg_pfx = False
                 for child in children:
                     
-                    #Finding the modifier
                     if child.dep_ == "ccomp" and child.pos_ != 'AUX' and  child.pos_ != 'ADV':
                         M = child.text
                     if child.dep_ == "acomp":
                         M = child.text
 
-            
-                    #Finding the aspect
                     if (child.dep_ == "nsubj" and child.pos_ == "PROPN") or (child.dep_ == "nsubj" and child.pos_ == "NOUN"):
                         for w in child.ancestors:
                             for w in w.children:
@@ -141,7 +136,6 @@ class The_Aspectator(object):
                 A = "999"
                 add_neg_pfx = False
                 for child in children:
-                    #Finding the modifier
                     if child.dep_ == "acomp" and child.pos_ == "VERB":
                         M = child.text
                         for w in child.children:
@@ -162,7 +156,6 @@ class The_Aspectator(object):
                                             if w.dep_ == "compound":
                                                 comp = w.text
                                                 A = comp + " " + A
-                    #Finding the aspect
                     if (child.dep_ == "nsubj" and child.pos_ == "NOUN") or (child.dep_ == "nsubj" and child.pos_ == "PROPN"):
                         A = child.text
                         for w in child.children:
@@ -171,7 +164,6 @@ class The_Aspectator(object):
                                 A = comp + " " + A
 
                     #Identify negation
-
                     if child.dep_ == "neg":
                         neg_pfx = "not"
                         add_neg_pfx = True
@@ -189,14 +181,14 @@ class The_Aspectator(object):
                 A = "999"
                 add_neg_pfx = False
                 for child in children:
-                    #Finding the modifier
+
                     if child.dep_ == "amod":
                         M = child.text
                         for w in child.children:
                             if w.dep_ == "advmod":
                                 M = w.text + " " + child.text
                             
-                    #Finding the aspect
+
                         A = token.text
                         
                         for w in child.ancestors:
@@ -236,10 +228,7 @@ class The_Aspectator(object):
                                 if w.dep_ == 'dobj':
                                     A = w.text
 
-
-
                 #Identify negation
-
                 if add_neg_pfx == True and M != "999":
                     M = "not" + " " + M
 
@@ -252,11 +241,11 @@ class The_Aspectator(object):
                 A = "999"
                 add_neg_pfx = False
                 for child in children:
-                    #Finding the modifier
+
                     if child.dep_ == "advmod":
                         M = child.text + " " + M
 
-                    #finding the aspect
+
                     if child.dep_ == "prep":
                         for w in child.children:
                             if w.dep_ == "pobj" and w.pos_ in ('NOUN', 'PROPN'):

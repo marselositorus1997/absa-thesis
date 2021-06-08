@@ -71,7 +71,8 @@ def main():
     aggregated_df.to_csv(os.path.join(basefolder, 'results', 'aggregated_result.csv'), index = False)
     final_result_df.to_csv(os.path.join(basefolder, 'results', 'final_results.csv'), index = False)
 
-    print("Finished at time {run_id_start_time}")
+    stop_time = datetime.datetime.now()
+    print(f"Finished at time {stop_time}")
     print('Check folder data/results to see the final results...........')
 
 if __name__ == "__main__":

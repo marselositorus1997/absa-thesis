@@ -1,0 +1,139 @@
+clusters,variable,is the cluster relevant to the variable?
+reputation,not_included,1
+experience,not_included,1
+god,not_included,1
+unidentified,not_included,1
+place,physical_aspect,1
+staff,personal_interaction,1
+associate,not_included,1
+time,not_included,1
+service,problem_solving,0
+customer service,problem_solving,1
+couple hour,policy,0
+review,not_included,1
+condition,aesthetics,1
+customer,problem_solving,0
+option,problem_solving,0
+price,price,1
+deal,not_included,1
+selection,problem_solving,0
+item,not_included,1
+headache,not_included,1
+porch,not_included,1
+carrier,not_included,0
+support,problem_solving,1
+shipping,policy,1
+order,not_included,0
+store,problem_solving,0
+people,not_included,1
+feeling,meet_customer_needs,0
+smile,not_included,1
+success,not_included,1
+employee,not_included,1
+news,problem_solving,0
+office,not_included,1
+part,physical_aspect,1
+shopper,not_included,1
+heaven,not_included,1
+lack,meet_customer_needs,0
+label,not_included,1
+receipt,not_included,1
+money,not_included,0
+way,not_included,1
+delivery,aesthetics,0
+refund,policy,1
+son,not_included,1
+night,not_included,1
+dollar,not_included,1
+apartment,physical_aspect,0
+incident,not_included,1
+attempt,not_included,1
+page,not_included,1
+credit card,policy,1
+chattanooga walmart,not_included,1
+attitude,physical_aspect,0
+cart,physical_aspect,1
+past,not_included,1
+piece,not_included,1
+process,not_included,1
+peace,not_included,1
+return process,not_included,0
+box,not_included,0
+beat,not_included,1
+planet,not_included,1
+purchase,aesthetics,0
+seller,not_included,1
+cashier,physical_aspect,1
+foot,problem_solving,0
+baby panda,not_included,1
+card information,policy,1
+rating,not_included,1
+tubing,not_included,1
+product,not_included,1
+refrigerator,not_included,1
+fridge,not_included,1
+transit,not_included,1
+evolution,not_included,1
+evidence,not_included,1
+good,not_included,1
+bag,physical_aspect,1
+hand,not_included,1
+bottle,not_included,1
+one,not_included,1
+wine,not_included,1
+crowd,not_included,1
+much,not_included,1
+find,physical_aspect,0
+brand,not_included,1
+variety,aesthetics,0
+supermarket,not_included,1
+work,not_included,1
+ml,not_included,1
+rest,problem_solving,0
+size,aesthetics,1
+food,not_included,1
+haggis,not_included,1
+organisation,not_included,1
+quality,aesthetics,0
+conversation,policy,0
+shop,problem_solving,0
+stock,not_included,1
+fun,not_included,1
+thumb,not_included,1
+value,price,1
+parcel,physical_aspect,1
+month,not_included,1
+thing,meet_customer_needs,0
+fruit,aesthetics,0
+dairy,not_included,1
+member,not_included,1
+job,not_included,1
+phone,not_included,1
+daughter,not_included,1
+reason,meet_customer_needs,0
+day,not_included,1
+consignment,not_included,1
+system,not_included,1
+supervisor,not_included,1
+minute,not_included,1
+mean,policy,0
+lifetime,durability,1
+trolley,physical_aspect,1
+company,not_included,1
+address,physical_aspect,1
+bread,not_included,1
+raspberry,problem_solving,1
+egg chair,not_included,1
+issue,not_included,1
+stress,not_included,1
+lft hotpoint a,not_included,1
+practice,not_included,1
+word,not_included,1
+call,problem_solving,1
+business,physical_aspect,0
+check,aesthetics,0
+trust health,personal_interaction,0
+covid aldis compliance,not_included,1
+march aldi,not_included,1
+customer experience,problem_solving,1
+unloading bay,not_included,1

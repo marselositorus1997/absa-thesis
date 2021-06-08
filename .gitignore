@@ -1,7 +1,5 @@
-data
 __pycache__
 /data
-*.csv
 /.vscode
 *.egg-info/
 *__pycache__/
@@ -11,4 +9,4 @@ Lib
 Scripts
 share
 *.cfg
-\Include
+/Include

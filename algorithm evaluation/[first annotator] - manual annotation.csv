@@ -1,0 +1,281 @@
+sentence,Is the sentiment that corresponds to the extracted terms  positive?,term,sentiment_word,"Is the opinion pair relevant (1 = Yes, 0 = No)",cluster,"Is the cluster relevant with the respected term (1 = Yes, No = 0)"
+"Walmart has a bad reputation, why I dont know.",0,reputation,bad,1,reputation,1
+I have nothing but good experience there.,1,experience,good,1,experience,1
+The State and County both pretty much ignored me.,0,state,ignored,1,condition,1
+THANK GOD FOR WALMART !,1,walmart,thank,0,unidentified,0
+Epik who works at the Garden Center at Walmart at Middletown was very friendly and professional.,1,epik,very friendly,1,unidentified,0
+Thanks to him we had a great experience at Walmart!,1,experience,great,1,experience,1
+Very easy place to shop at.,1,place,very easy,1,place,1
+Had a lot of different things and a bunch of friendly staff.,1,staff,friendly,1,staff,1
+Thank you SO MUCH for hiring such a caring and compassionate associate!,1,associate,caring,1,associate,1
+"Bill not only assisted us in finding what we needed, but saw Terry was having a very difficult time breathing and standing, so Bill not only took our purchases to the front, he even opened a register when he saw the checkout lines were very long, and cashed us out.",0,time,very difficult,0,time,1
+I love Wallmart.,1,wallmart,love,1,unidentified,1
+Horrible experience.,0,experience,horrible,1,experience,1
+"Costumers service very good , not only words but also deeds.",1,service,very good,1,service,1
+I love walmart.,1,walmart,love,1,unidentified,1
+And the customer service is pretty good.,1,customer service,pretty good,1,customer service,1
+My order was ready within a couple hours.,0,couple hour,ready,1,couple hour,1
+Very pleased with this experience.,1,experience,very pleased,1,experience,1
+I was so impressed with the service.,1,service,so impressed,1,service,1
+Im surprised by all the bad reviews.,0,review,bad,1,rating,1
+Ill see if that goes well and all items received in good condition.,1,condition,good,1,condition,1
+"If so, I will be a satisfied customer and will continue to use Walmart.",1,customer,satisfied,1,customer service,1
+I also am disappointed that you cant order many items online and have to go into the store such as TP and certain food items.,0,food item,not certain,0,food item,1
+Doesnt sound like a safe option to me.,0,option,not safe,1,selection,1
+"the staff is always polite , helpful , kind , helpful",1,staff,helpful,1,staff,1
+"safe and secure, good prices and all in all, nothing to complain about!",1,price,good,1,price,1
+Shipping correct prices very reasonable great all around deals,1,deal,great,1,deal,1
+I have been pleased with the experience of shopping online with Walmart.,1,experience,pleased,1,experience,1
+They have a great selection and prices.,1,selection,great,1,selection,1
+The items were ready to be collected within 30 minutes.,1,item,ready,1,item,1
+Fantastic experience for me,1,experience,fantastic,1,experience,1
+Ordering online can create headaches.,1,headache,create,1,headache,1
+"I dont believe they should allow other sellers on their website, I feel it degrades their reputation and service towards us.",0,reputation,degrades,1,reputation,1
+"Also, using carriers like Canpar or Purolator for expensive items especially is a drag, because we would have to wait all day long just to make sure they wont leave it by our porch unattended, and not give us notice of their arrival.",0,porch,not leave,0,porch,1
+"Too bad we cant select which carrier we would like, would make life easier.",0,carrier,like,0,business,0
+Very good customer service in electronics.,1,customer service,very good,1,customer service,1
+I like walmart.,1,walmart,like,1,unidentified,0
+then pick what brand names u want to shop for.,1,name,want,1,part,0
+"The prices are cheap, but I expect better support.",1,support,better,1,support,1
+Love this place I come about 4times a week,1,place,love,1,place,1
+The associates selecting our purchases and loading the car have been courteous and careful.,1,associate,courteous,1,associate,1
+Its a time saver and an easy way to budget food costs.,1,cost,easy,1,cost,1
+"I visited the Collierville Walmart today and was very, very pleased with a couple associates Kathleen and Leeanna.",1,couple associate,very very pleased,1,couple hour,1
+Overall many good experiences using this site.,1,experience,good,1,experience,1
+"Never had any problems except that some dry Cat food bag had broken open in shipping, but it was packed well for shipping.",0,shipping,broken,1,shipping,1
+"They always deliver on timewhen I order, but cancelling orders doesnt work very well from my experience.",0,order,cancelling,0,order,1
+Walmart is an amazing store!,1,store,amazing,1,store,1
+It is filled with beautiful people and workers.,1,people,beautiful,1,people,1
+It is well organized and there is always a good feeling surrounding the place.,1,feeling,good,1,condition,1
+"They treat everyone equally at the store and show sympathy, thank you Walmart!",1,store,treat,1,store,1
+all under 20 dollars and some inexpensive leathercraft items and they had free shipping which made them much more affordable.,1,shipping,free,1,shipping,1
+i can always find everything i need in walmart because the service is always friendly with a smile!,1,smile,friendly,1,smile,1
+"They have low prices, but they have long lines.",1,price,low,1,price,1
+The prices here are great!,1,price,great,1,price,1
+I have had great success with shopping online with Walmart.,1,success,great,1,success,1
+The super low prices are unbeatable.,1,price,super low,1,price,1
+The employees at Walmart are pretty friendly as well.,1,employee,pretty friendly,1,employee,1
+Not all but most of them are good people.,1,people,good,1,people,1
+Sams clubs are closing and that is good news.,1,news,good,1,news,1
+Nothing came of it because their Corporate Office does not care.,0,office,not care,1,store,1
+After going through process of purchase it said that it was out of stock item moved to the saved for later part of cart.,1,part,saved,1,part,1
+Tell me why the biggest market refuses to stand up and insist masks be used to protect the shoppers.,1,shopper,protect,0,shopper,1
+"Queensbury Walmart, NY is a possible den of COVID because they dont enforce executive law, heaven forbid they lose a 25.",0,heaven,lose,0,heaven,1
+Horrible lack of customer service.,0,lack,horrible,1,condition,0
+The worst part is they lie to you,0,part,worst,1,part,1
+"regardless meredith, was also very rude  laughing while i was talking wher about the situation.",0,laughing,very rude,1,unidentified,0
+she refused to let me speak wher manager  advised her manager was danicia whom she could not provide me her hours or a number to reach her at direct.,0,whom,reach,0,unidentified,1
+"either way, this was my first experience ordering offline wwalmart  will never happen again.",0,wwalmart,offline,1,unidentified,1
+I WANT TO WARN OTHERS SO THEY DONT FALL FOR THIS SAME WALMART SCAM.,0,others,warn,1,unidentified,1
+WalMart will advertise a product at a great price so youll buy it online.,1,price,great,1,price,1
+SURPRISE  the only thing theyve done is create a label and sent the label information to FedEx.,1,label,create,1,label,1
+"After spending an hour speaking to Offshore Reps who can barely speak English and have NO CONCEPT of the difference between creating a label and actually shipping an item, theyll apologize, lie to you about when it will actually get shipped, and tell you to just give it more time.",1,label,creating,0,label,1
+I have had very little progress with the company because I dont have the original receipt.,0,receipt,not original,1,receipt,1
+"Stay away from horrible customer service like this, we work too hard to throw our money away.",0,customer service,horrible,1,customer service,1
+"Walmart has stolen my money, Ive paid for a service I never even received.",0,money,stolen,1,money,1
+"Only experience with walmart is totally worst and bad, they process the order by themselves with taking authorization and sending 0 mails of confirmation.",0,experience,totally worst,1,experience,1
+I got the email that says we will let you know once the order generate and but after generate they straight way sent.,1,way,straight,0,way,1
+Waste of my money plus they are charging delivery charges doesnt matter if i pick up from the walmart as well,1,delivery charge,matter,1,delivery charge,1
+Chatted with Walmart who said my order was lost in delivery and they could now reorder.,0,delivery,lost,1,delivery charge,1
+Waiting time is terrible !,0,waiting time,terrible,1,time,1
+Not to mention that you cant trust Walmart with your money.,0,money,not trust,1,money,1
+I dont feel good about a refund any time soon after speaking with them.,0,refund,not good,1,refund,1
+My son is sooo sad and I dont have money to buy another 50 scooter!,0,son,sad,1,issue,0
+But no more they lost a valued customer!,1,customer,valued,0,customer service,1
+This company makes no sense  For covid  They close down a set doors Which leaves ONE set of doors for everyone to walk through makes sense instead of having both sets of doors open to separate persons a little better and if you say its because only a certain amount of people are allowed in  they both have counters and a radio  COMMUNICATE  Then closing the stores at 10?,1,people,certain,0,people,1
+They should stay open and clean through out the night instead of one time during the night  this will allow for people to come in at different times and not so many people at one time?,1,night,allow,0,night,1
+Bought Walmart grocery delivery 300 dollars worth.,1,dollar,worth,1,dollar,1
+The doordasher delivered it to the wrong apartment.,0,apartment,wrong,1,apartment,1
+com is no longer safe to buy from.,1,com,safe,1,unidentified,1
+This not an isolated incident.,0,incident,isolated,1,incident,1
+"By this time, I had about 20 saved in my cart from previous attempts throughout the day, so I decided to try and check them all out, and I figured 1 or 2 would go through.",1,attempt,saved,1,part,0
+"I have the page saved, and NO where does it say limit 1 per customer.",1,page,saved,1,card information,0
+"I wasnt able to see if theyve canceled her order or not, but Im receive ZERO Playstation 5s when I did absolutely nothing wrong, and I received confirmation emails, and they went far enough through to reach my credit card.",1,credit card,reach,0,card information,1
+They screwed up my order and I had to wait for a manager for another 10 minutes.,0,order,screwed,1,order,1
+My infant was screaming hungry at this point.,0,point,screaming,0,part,0
+Never ordering ship to store again and I avoid Walmart at all costs.,0,cost,avoid,0,cost,1
+The Chattanooga Walmart on Brainard road is not only pathetic it is racist.,0,chattanooga walmart,pathetic,1,chattanooga walmart,1
+The employees all have bad attitudes and hate white people.,0,attitude,bad,1,attitude,1
+"I finally get the PS5 in my cart and both times it miraculously disappears and I get a notice that says, there are no more in stock.",0,cart,disappears,1,cart,1
+I love Walmart but my experience with Walmart.,1,walmart,love,1,unidentified,0
+com has been the worse.,0,com,worse,1,unidentified,0
+Its been a huge headache.,1,headache,huge,1,headache,1
+I was dumb enough to order a kitchen table with bench  chairs knowing they messed up all my orders in the past.,0,past,messed,0,time,1
+This has happened in the past where package was missing pieces and they said it was coming separately and it never came.,0,piece,missing,0,part,1
+It is a bad experience to buy from Walmart online.,0,experience,bad,1,experience,1
+It is not easy process.,0,process,easy,0,process,1
+Walmart has always been horrible and Walmart.,0,walmart,horrible,1,unidentified,1
+com is just as bad if not worse.,0,com,worse,1,unidentified,1
+They told me that they have no record of any order and I must not know how to place an order with them online even tho I have been using the site for years .,0,order,no record,1,order,1
+they refused to help in any way or even say that it could possibly have been an error on the site or on thier end and INSISTED I didnt know how to place an online order .,1,way,help,0,way,1
+"Rude , ignorant ,and insulting all the way around.",0,way,insulting,1,way,1
+I think they need to look at firing the manager at this store.,0,store,firing,0,store,1
+"The worker  her name is Beth  could not cut one peace of fabric, roll it up and get label 35 minutes!",0,peace,not cut,1,peace,1
+Very bad and slow customer service in the craft department.,0,customer service,very bad,1,customer service,1
+Worst return process of any website.,0,return process,worst,1,process,0
+"com, because they had the best price.",1,price,best,1,price,1
+"I took the package in which the box was damaged in transit to my local Walmart store to return it, per their website.",0,walmart store,damaged,0,store,1
+Then I had to repackage each item at my cost into 6 individual packages not into the original box each with a separate shipping label.,0,box,original,0,box,1
+"He asks the employee at the only cash register near the door who, without missing a beat, says they dont carry them.",0,beat,missing,0,beat,1
+"It is the only one on the shelf, in poor condition, but at least it is there.",0,condition,poor,1,condition,1
+"I ask them to reduce its price, given it is half or more dead, but Im willing to take a chance on it and am too tired to go elsewhere to shop.",0,it,dead,0,it,1
+Sorry but I dont recommend Walmart.,0,walmart,not recommend,1,unidentified,1
+"the worst on the planet, I order items and they are sent to a store 100 miles away and they tell me it must be a glitch, funny that some items are delivered to the store 2 miles from my house and some are sent elsewhere and it is not the post office this time I see the address they sent it to.",0,planet,worst,0,planet,1
+I made an unfortunate purchase from Walmart.,0,purchase,unfortunate,1,purchase,1
+com and the item broke in less than 30 days.,0,item,broke,1,item,1
+I reached out to the seller Bingo several times and it took them 3 weeks of being pestered before they responded.,1,seller,reached,0,seller,1
+You guys do not care enough about customer service or the value of your customers time.,0,customer service,not care,1,customer service,1
+"First the cashier, just ignored me and started piling my groceries to the side.",0,cashier,ignored,1,cashier,1
+"I was very polite in requesting, some help to purchase an alternative container, and I noticed a girl cutting up and dismantling boxes, within 10 feet.",0,foot,cutting,0,hand,1
+So so so bad for Walmart in Nuevo Vallarta!Shame on you to allow clerks and Management to be so rude,0,walmart,so so so bad,1,unidentified,1
+The checkout lady was acting like i kill baby pandas for a living lol.,0,baby panda,kill,0,baby panda,1
+Worst service.,0,service,worst,1,service,1
+Horrible experience on the call.,0,experience,horrible,1,experience,1
+"To everyone, please avoid Dublin walmart store pickup, and for any business if possible.",0,store walmart dublin pickup,avoid,1,store,1
+Since Covid the service is Worthless!,0,covid,worthless,1,unidentified,1
+IF I am lucky enough to secure a time slot for Pick up at my Freehold or Howell NJ store.,1,time slot,secure,1,time,1
+attention Walmart shoppers Walmart will share your credit card information and you will get ripped off like I did I had a charge from walmart.,1,card information,share,1,card information,1
+com for 421 and they keep telling me I was charged by mistake and your money will be back on the card in 24 hours and never got it back I have to contact my bank to open up a dispute thay will share your credit card information if youre not paying with PayPal do not shop from WalMart.,1,card information,share,1,card information,1
+"Actually I would rate a minus 0, but in order to write a review I had to give the lowest rating.",0,rating,lowest,1,rating,1
+"There are big signs on the back of the refrigerator, indicating not to use it if the tubing is damaged because the refrigerant is highly explosive and can be ignited with the spark from an outlet or even a cigarette.",0,tubing,damaged,1,tubing,1
+"It was obvious the tubing could have been damaged, and therefore was too much of a risk to use it.",0,tubing,damaged,1,tubing,1
+I wasnt taking any grief from them and demanded they give me a refund for a damaged product ordered online through Walmart.,1,product,not damaged,1,product,1
+And in another two weeks I get ANOTHER damaged refrigerator.,0,refrigerator,damaged,1,refrigerator,1
+"Not the same damaged fridge, at least, but this time the motor inside the back of refrigerator, had one of its heavy metal brackets crushed, so now the motor was lopsided.",0,fridge,damaged,1,refrigerator,1
+"I was ready to lambaste FedEx, but the reality was, there was no structural damage to the outside of the refrigerator, to indicate that this heavy metal motor bracket was damaged through transit.",0,transit,damaged,0,transit,1
+"This is the sad evolution, of products and service, and product accountability, in America, through Walmart online.",0,evolution,sad,1,evolution,1
+"The customer is the victim of damaged products without any responsibility from the manufacturer like the shady Avanti, the online distributor like Walmart Online, and the deliverer like FedEx.",0,product,damaged,1,product,1
+"God knows, after reading all these reviews there is no lack of evidence, that the consumer is the victim.",0,evidence,no lack,1,evidence,1
+And customer service and product accountability IS DEAD.,0,customer service,dead,1,customer service,1
+Where do all these damaged goods go??,0,good,damaged,1,good,1
+"You have to ask yourself, Who is really winning in this Damaged Goods syndrome?",0,goods syndrome,winning,1,good,1
+This is why the employees dont want to work for your company.,0,employee,not want,1,employee,1
+I opened up to find in a large clear bag two bottles of Prego were both SHATTERED full of sauce!,0,bag,clear,0,bag,1
+If someone had stuck their hand in or a child Walmart you would be sued!,0,hand,stuck,1,hand,1
+"This is not the only time I have had issues, but I felt I needed to post due to the safety today of this matter and this could have been worse medically if a hand was cut.",0,hand,cut,0,hand,1
+Screw top bottles are a real boon.,0,bottle,top,0,bottle,1
+Vegetables at good prices.,1,price,good,1,price,1
+Wonky ones are fine.,1,one,fine,1,one,1
+Wine is good.,1,wine,good,1,food item,1
+I shop early to avoid the crowds.,0,crowd,avoid,1,crowd,1
+I like Aldi store because they always have some good deals twice.,1,deal,good,1,deal,1
+The staff are always very friendly and helpfull.,1,staff,very friendly,1,staff,1
+"Ok, so there are some items they dont stock which I still have to get from Tesco, but once you get used to Aldi, there is no going back  unless you want to pay too much and can afford it!",1,much,pay,0,much,1
+I was attracted by free delivery and reasonable prices for wine I had previously enjoyed.,1,delivery,free,1,delivery charge,1
+What a delightful find.,1,find,delightful,1,find,1
+"Meaty, tasty  a great price of 149.",1,price,great,1,price,1
+Can also recommend the specially selection cheeseboard cracker selection.,1,cracker selection,recommend,1,cracker selection,1
+Very pleased with the new Culverhouse Cross Store.,1,cross store,very pleased,1,cross store,1
+"Usually Aldis tend to be small, cramp and full of arrogant customers, but this one is different.",0,customer,arrogant,1,customer service,1
+"The curry sauces are some of the best Ive had too, way better than the big brands.",1,brand,better,1,brand,1
+"Also my store in Fleetwood is a bit like a jumble sale,and pallets are left all over the place,which hinders trolleys and quite dangerous for shoppers.",0,shopper,quite dangerous,1,shopper,1
+Aldi Sutton Coldfield branch Excellent customer service and great variety of products.,1,variety,great,1,variety,1
+great staff and friendly too.,1,staff,great,1,staff,1
+What a fabulous service given.,1,service,fabulous,1,service,1
+Aldi has been the best stocked supermarket out of all.,1,supermarket,best stocked,1,supermarket,1
+"Have been a regular ALDI customer for some time now, and am always impressed with their prices, the service and their ever expanding range, particularly of vegan options.",1,vegan option,impressed,1,vegan option,1
+Keep up the great work Aldi,1,work,great,1,work,1
+"Bought the garden corner rattan sofa online , I am really pleased with my purchase and it looks much more expensive than the price I paid.",1,purchase,really pleased,1,purchase,1
+The Aldi store in Royal Wootton Bassett is amazing for wiping trolleys and controlling the flow of people into the store.,1,aldi store,amazing,1,store,1
+The effort the staff go to to protect its customers is the best Ive seen.,1,customer,protect,1,customer service,1
+50 for the innocent 100mls one in Morrisons !,1,ml,innocent,1,ml,1
+"They need to improve their till staffing, very poor.",1,staffing,improve,1,unidentified,0
+Giving the rest of us who had been waiting for half an hour priority.,1,rest,giving,0,part,0
+Amazing staff very clean and space full tidy and very polite staff they always act on feedback.,1,staff,very clean,1,staff,1
+"I love the size of the shops, the items they stock, the twice weekly specials.",1,size,love,1,size,1
+And the price is pretty good too,1,price,pretty good,1,price,1
+The food is amazing.,1,food,amazing,1,food item,1
+My family have not complained once.,1,family,not complained,1,business,0
+"The last two deliveries arrived with in two days, delivery drivers all very pleasant and followed social distancing etc perfect delivery servicethank you Aldi",1,delivery servicethank,perfect,1,delivery charge,1
+"Really, I consider that to be simply good service.",1,service,simply good,1,service,1
+And the haggis was excellent too!,1,haggis,excellent,1,haggis,1
+"organisation, service, and products all excellent.",1,organisation,excellent,1,business,0
+Opens 30mins earlier for vulnerable people.,0,people,vulnerable,1,people,1
+Good quality produce at far below big supermarket prices,1,quality,good,1,mobility issue,0
+"I was served by a lady called Emma in your leamington store , she was very cheerful and made great conversation with me .",1,conversation,great,1,conversation,1
+Thank you emma keep up the good work,1,work,good,1,work,1
+Now I dont think anyone could moan about this service.,1,service,moan,1,service,1
+Many products are excellent some we have only purchased once.,1,product,excellent,1,product,1
+We love the shop for what we buy.,1,shop,love,1,store,1
+"Great offers each week via email news letter,Allway got interesting items in storeAll round Value for money",1,item,interesting,1,item,1
+"Good stock and service at the South Ruislip Aldi, although on weekends the queues are neverending and sometimes go halfway up the isles.",1,stock,good,1,stock,1
+I was given outstanding customer service today from Aldi when I called them regarding an online order.,1,customer service,outstanding,1,customer service,1
+"Short call time, employees pleasant and great fun.",1,fun,great,0,fun,1
+"The staff were calm, friendly and professional.",1,staff,calm,1,staff,1
+A huge thumbs up for you guys.,1,thumb,huge,1,thumb,1
+"With having 6 children food bills over the years have gone through the roof, we have always used to big 4 supermarkets alternating between them dependant on which gave us best value for money at the time.",1,value,best,1,value,1
+Ive given the nappies a try this time as their highly rated by many mother and baby sites but again if I find them not as good as other leading brands I just wont buy them again.,0,brand,not as good,1,brand,1
+"The store itself was clean and tidy, the shelves were more than well stocked and the staff were extremely helpful and quick on the tills given it was a busy night at the end of the week.",1,store,clean,1,store,1
+We will definitely be sticking to aldi from now on and will only switch back if they become like the big 4 that constantly offer you 2 for 1 deals that you dont want or need or raise their prices dramatically.,1,deal,want,1,deal,1
+There was a stigma attached to aldi shoppers when I was younger but Im proud to say I get a better value for money by shopping there than anywhere else!,1,value,better,1,value,1
+"Brilliant customer service, item was 300 cheaper than the nearest competitor and delivered on time.",1,customer service,brilliant,1,customer service,1
+"Offensive rude, staff, treat disabled customers very poorly, I went to aldi, stanway ha e lung disease, got spoke.",0,rude,offensive,0,unidentified,0
+"I got an email from Hermes saying the order was out for delivery between 1300  1500 that day , then an email to say courier attempted but there was no one in and no safe place for the parcel.",0,parcel,safe,0,parcel,1
+I have wasted nearly a month with Aldi and have not received my order.,0,aldi,wasted,1,unidentified,1
+"Some things are ok, like biscuits and confectionary.",1,thing,ok,1,condition,0
+"Fruit and Veg isnt clever, it goes of quick and doesnt taste good.",0,fruit,not clever,1,fruit,1
+Dairy isnt as bad but milk sometimes tastes sour.,0,dairy,not as bad,1,dairy,1
+"The staff are normally pleasant, but a few are moody.",1,staff,pleasant,1,staff,1
+"Aldi, what you are doing to loyal customers who are disabled or slowed down, is unforgivable.",1,customer,loyal,0,customer service,1
+I have severe mobility issues and can prove by my bank statement what time I paid.,0,mobility issue,severe,1,mobility issue,1
+"The rear of the shop to see members of staff fighting, a white guy with braided ponytale was punching the black samarlian guy, then two other members of staff join to restrain the guy with the braided ponytail there was a female member of staff there too with redish maroon hair, then another short older Spanish type shop assistant came to help and as doing so I saw him kick the guy that had the ponytail.",1,member,join,0,associate,1
+"This gave me a panic attack and I felt very disturbed by what I witness among staff, if thus is how the staff treat each other it could quite easily have been a customer.",1,other,treat,0,unidentified,1
+"I heard a supervisor saying to the guy with the ponytail, you have just lost your job.",0,job,lost,1,work,1
+"You have to check EVERYTHING at aldi, check the produce because theyll happily sell rotten food, check the specialbuys because theyll happily sell items that are broken and most importantly of all CHECK YOUR RECEIPT because they double scan items ALL THE TIME.",0,food,rotten,1,food item,1
+Shopping at aldi is HARD WORK!,0,work,hard,1,work,1
+"So she left the pizza, cake and biscuits at the till and went to leave the shop to come home and get her money.",0,shop,leave,1,store,1
+Maddy should of been asked to empty her bags herself.,0,bag,empty,0,bag,1
+"The 2 above staff told her she had to leave all her belongings at the store while she came home, including her phone!",0,phone,leave,1,phone,1
+I asked if there was any evidence on the cctv cameras throughout the store to prove that my Daughter had stolen anything and to give them reasonable doubt??,0,daughter,stolen,0,daughter,1
+"I have thoroughly researched this today, and it is only the police and schools that are both governing bodies and have done authority to search your child without you present, but ONLY with with very good reason.",1,reason,very good,0,reason,1
+"My Daughter did not steal anything, and was made to feel extremely embarrassed as the shop was quite full of customers who could see and hear everything.",1,daughter,not steal,1,daughter,1
+The way the staff at Aldi Sudbury Suffolk dealt with this incident was utterly unacceptable.,0,way,unacceptable,1,way,1
+Opened on 25th to cook and was greeted by the smell of a dead body.,0,body,dead,1,system,0
+Complained via Twitter commonly the fastest way to get to customer services with normal companies .,0,twitter,complained,1,twitter,1
+no response for days.,0,day,no response,1,minute,1
+Shocking customer service.,0,customer service,shocking,1,customer service,1
+As another member of staff would stop doing what they are doing and serve me instead.,0,member,stop,1,associate,1
+On 13th April the XDP delivery message was updated to say that the consignment was damaged.,0,consignment,damaged,1,product,1
+Eventually Jared answered but informed me that the goods were not showing as damaged on his tracking system.,0,system,damaged,1,system,1
+Zed allegedly spoke to a supervisor who agreed to process the refund immediately and send email confirmation.,1,supervisor,agreed,1,supervisor,1
+The operator put me on hold to speak to a supervisor but after 16 minutes I was cut off.,0,minute,cut,0,minute,1
+I politely told her that if the refund was not in my credit card account by Monday 3rd May at the latest then I would be taking steps to recover the 360 they owed me by legal means.,0,mean,legal,1,evidence,0
+I then received a reply to my Facebook message saying the goods were now officially missing.,0,good,missing,1,good,1
+If the damaged goods are not being returned by the courier then have they been stolen?Why is it impossible to speak to anyone at XDP and why are they getting away with charging 7p per minute to keep customers on hold for lengthy periods.,1,good,not damaged,0,good,1
+Griddle pan with useless lifetime guarantee  dont be fooled!bought the griddle pan from Aldi with a lifetime guarantee  after first use the guaranteed non stick surface came off after washing  same happened with the replacement.,0,lifetime,not useless,1,lifetime,1
+So salters lifetime guarantee is worthless.,0,lifetime salter guarantee,worthless,1,lifetime,1
+Aisles are also often partially blocked with trolleys.,0,trolley,blocked,1,trolley,1
+"Prices are quite competitive, but often at the expense of quality.",1,prices,quite competitive,1,price,1
+"Finally, we can only use Aldi for top up shopping for a few good products because they dont stock all we want for our particular full weekly shop.",0,product,good,1,product,1
+Worst company ever.,0,company,worst,1,service,0
+We called in and they said that it was delivered to wrong address and someone will call us regarding the next steps.,0,address,wrong,1,address,1
+Very unhappy with their services.,0,service,very unhappy,1,service,1
+"Certain ALDI bread which we like has, without mention finished.",1,bread,like,1,food item,1
+Last week 3 Packs of fresh raspberries had some moldy fruit and it was purchased that day last Sunday.,0,raspberry,fresh,1,raspberry,1
+made me drive 10 miles to get to a different store only to be told the other aldi store staff misled me and gave wrong information.,0,information,wrong,1,news,1
+I would stop shopping there but as I am on a tight budget I can save quite a bit on my weekly shop.,1,shop,save,1,store,1
+Back in March I was lucky enough to pay for my egg chair.,1,egg chair,pay,1,egg chair,1
+I eventually find out that my egg chair was damaged and returned back to Aldi.,0,egg chair,damaged,1,egg chair,1
+They have taken my money and not even attempting to resolve the issue.,1,issue,resolve,0,issue,1
+The stress is not worth the cheap deals.,0,stress,not worth,1,stress,1
+"Appalling service in Macclesfield on Fri, overcharged and when I returned to complain was basically called a liar!",0,service,appalling,1,service,1
+"Never again, Whitley bay was better with just Sainsburys.",0,sainsburys,better,1,unidentified,1
+I have a Hotpoint LFT228A which works well with other Aldi dishwasher tablets.,1,lft hotpoint a,well have,0,lft hotpoint a,1
+AVOID AVOID AVOID .,0,avoid,avoid,0,unidentified,0
+"Poor practice somewhere along the chain, thats for sure.",0,practice,poor,1,practice,1
+"45 to avoid a busy store due to my having Asthma, HBP, mobility issues and also 68 years of age.",0,store,avoid,1,store,1
+"When got home I phoned customer service who informed me that he should have accepted my word, P. S.  he also got so close to me  not social distancing that I got a bit anxious.",1,word,accepted,1,part,0
+I explained my situation to CS providing my phone  and awaited a call.,0,call,awaited,1,call,1
+"Money tight, and having shopped at Sainsburys for about 13 years, I eagerly switched!Ive shopped at the new Aldi for just weeks, and yet I have SERIOUS CONCERNS about Aldis management of the store, staff hygiene, and multiple dubious business practices!Firstly, unlike Sainsburys there is no effective STORE TRAFFIC MANAGEMENT.",0,business,dubious,1,business,1
+The Traffic Light system is stuck on green.,0,light system,stuck,1,system,1
+"And had I bought the aforementioned reduced and expired cooked meat, you can bet your bottom dollar the lazy check out assistant would have charged me FULL PRICE!The moral of the story?",0,check,lazy,0,check,1
+I complained about the issues Ive detailed here to ALDI and ENVIRONMENTAL HEALTH.,0,issue,complained,1,issue,1
+"Environmental Health havent even bothered to reply!AldiEverydayAnnoyingRemember, my advice is DONT trust Aldi.",1,reply aldieverydayannoyingremember,not bothered,1,reply aldieverydayannoyingremember,1
+"And other people are also criticising Aldis COVID COMPLIANCE, with customers not wearing masks and stores too crowded.",0,covid aldis compliance,criticising,1,covid aldis compliance,1
+Also rude Aldi staff like LIDL.,0,aldi staff,rude,1,staff,1
+28th March 2018 Aldi are delighted to tell me fridge dispatched.,1,march aldi,delighted,1,march aldi,1
+Unacceptable customer experience and therefore not recommended.,0,customer experience,unacceptable,1,customer service,1
+Fruit and veg are disgusting.,0,fruit,disgusting,1,fruit,1
+Staff rude sarcastic and uncaring,0,staff,sarcastic,1,staff,1
+Aldi the slave drivers they make you tip your own load and have no driver facilities near the unloading bays.,0,unloading bay,no facilities,1,unloading bay,1
+"No one should feel victimised in a supermarket of all places, being ignored like hes invisible isnt acceptable.",0,supermarket,victimised,1,supermarket,1

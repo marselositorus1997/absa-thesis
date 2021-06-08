@@ -5,3 +5,4 @@ and ended with classifying the opinion polarity towards the aspect (sentiment po
 algorithm is 90% whereas the final accuracy of the model (including the aggregation) is 77%. This algorithm allows us to use online data (i.e. online review) to get the reputation 
 of a retail company as opposed to the traditional method which employs sharing questionnaire. This conventional method is exhaustive and laborous. Moreover, a company can get
 their corporate reputation quickly and act on it, especially in today's digital world. 
+![image](https://user-images.githubusercontent.com/73525930/121157693-10355d80-c84a-11eb-9e0d-d22a998f942a.png)
